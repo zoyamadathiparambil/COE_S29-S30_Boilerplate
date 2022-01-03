@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+}
+header,
+footer {
+    background-color: black;
+    width: 100%;
+    height: 50px;
+    color: white;
+    padding-top: 15px;
+}
+.container {
+    height: 600px;
+    padding-top: 5%;
+}
+#mobile {
+    width: 200px;
+    text-align: center;
+    padding: 5px;
+}
+.store {
+    padding: 20px;
+}
+
+/* Iteration 1: Style the table & table elements */
+
+
+/* Iteration 2: Style the <th> tag and add hover event to <tr> tag */
+
+
+/* Iteration 3: Style the input tag which has a id #quantity  */
+
+
+/* Iteration 4: Add margin value to table element  */
+
+
+/* Iteration 5: Style the Buy now button */
+
+
+/* Iteration 6: Styling the heading,paragraph & anchor tag */
+
+
+/* Iteration 7: Style the images by adjusting it's width and set the background image  to the top container */
